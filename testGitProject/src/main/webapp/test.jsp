@@ -4,11 +4,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Insert title here</title>
-this is test project.......
-This is my test commit....
-This is my test commit 2222
-This is my test commit 555
-This is my test commit 666
+This is my test commit 111
 
 </head>
 <body>
